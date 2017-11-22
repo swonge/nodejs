@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Simple HelloWorld app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swonge/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "HelloWorld"
+  ],
+  "author": "Steve Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swonge/nodejs/issues"
+  },
+  "homepage": "https://github.com/swonge/nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
